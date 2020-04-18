@@ -76,4 +76,4 @@ class Slider extends React.Component {
   }
 }
 
-ReactDOM.render(<Slider slides={slides} />, document.getElementById("slide"));
+ReactDOM.render(<Slider slides={slides} />, document.getElementById("root"));
