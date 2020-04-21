@@ -1,1 +1,2 @@
-# react-slider
+# React Slider
+Simple React js slider
